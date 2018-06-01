@@ -1,0 +1,8 @@
+{
+  "name": "node-snippet",
+  "main": "hung.js",
+  "dependencies": {
+    "@google-cloud/bigquery": "^1.3.0"
+  },
+  "private": true
+}
